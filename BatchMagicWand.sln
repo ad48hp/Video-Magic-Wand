@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BatchMagicWand", "BatchMagicWand\BatchMagicWand.vbproj", "{81F42ADF-A836-4D66-A169-EA7A5FB042AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F42ADF-A836-4D66-A169-EA7A5FB042AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F42ADF-A836-4D66-A169-EA7A5FB042AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F42ADF-A836-4D66-A169-EA7A5FB042AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F42ADF-A836-4D66-A169-EA7A5FB042AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8357FB85-3CDF-4F51-B4B9-333F04C1B30B}
+	EndGlobalSection
+EndGlobal
